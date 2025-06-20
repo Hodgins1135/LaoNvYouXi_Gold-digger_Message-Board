@@ -9,7 +9,7 @@
 - [分析&讨论](#分析&讨论) (2)
 - [反捞经验&知识](#反捞经验&知识) (5)
 - [情感互助&鼓励](#情感互助&鼓励) (2)
-- [捞女经历分享](#捞女经历分享) (6)
+- [捞女经历分享](#捞女经历分享) (7)
 
 ### <a id='分析&讨论'></a>分析&讨论 (2)
 
@@ -29,8 +29,9 @@
 - [人设借贷危机：当我用谎言「按揭」爱情时](https://github.com/Hodgins1135/LaoNvYouXi_Gold-digger_Message-Board/issues/9) | 创建于: 2025-06-20 | 负责人: 未分配
 - [祛魅之后：论一个成熟男人的自洽、粉色系与“四头”防沉迷系统](https://github.com/Hodgins1135/LaoNvYouXi_Gold-digger_Message-Board/issues/2) | 创建于: 2025-06-20 | 负责人: 未分配
 
-### <a id='捞女经历分享'></a>捞女经历分享 (6)
+### <a id='捞女经历分享'></a>捞女经历分享 (7)
 
+- [捞女质检报告：五块二转账认证的纯度与B站直播间的不朽标本](https://github.com/Hodgins1135/LaoNvYouXi_Gold-digger_Message-Board/issues/16) | 创建于: 2025-06-20 | 负责人: 未分配
 - [毕业设计：当她在操场欢笑时，我在寝室读她的婚姻栏](https://github.com/Hodgins1135/LaoNvYouXi_Gold-digger_Message-Board/issues/14) | 创建于: 2025-06-20 | 负责人: 未分配
 - [“我不知=不存在”定律：供养者用5万买来的自媒体鞭尸权](https://github.com/Hodgins1135/LaoNvYouXi_Gold-digger_Message-Board/issues/13) | 创建于: 2025-06-20 | 负责人: 未分配
 - [假面婚约：她在闺蜜群骂我下头时，正穿着我买的婚纱丈量深渊](https://github.com/Hodgins1135/LaoNvYouXi_Gold-digger_Message-Board/issues/11) | 创建于: 2025-06-20 | 负责人: 未分配
