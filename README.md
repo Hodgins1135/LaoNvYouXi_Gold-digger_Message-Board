@@ -6,13 +6,14 @@
 ## 最新
 
 ### 标签导航
-- [分析&讨论](#分析&讨论) (2)
+- [分析&讨论](#分析&讨论) (3)
 - [反捞经验&知识](#反捞经验&知识) (5)
 - [情感互助&鼓励](#情感互助&鼓励) (2)
 - [捞女经历分享](#捞女经历分享) (8)
 
-### <a id='分析&讨论'></a>分析&讨论 (2)
+### <a id='分析&讨论'></a>分析&讨论 (3)
 
+- [反捞启示录：在变凤凰邪教祭坛上解剖情绪价值的四块尸骸](https://github.com/Hodgins1135/LaoNvYouXi_Gold-digger_Message-Board/issues/18) | 创建于: 2025-06-20 | 负责人: 未分配
 - [裂国债券：脊梁为票面，“她们免代价”为利息，而兑付日即垓下雪崩时](https://github.com/Hodgins1135/LaoNvYouXi_Gold-digger_Message-Board/issues/15) | 创建于: 2025-06-20 | 负责人: 未分配
 - [婚姻异化简史：从栖身之所到ATM提款机的产权转移协议](https://github.com/Hodgins1135/LaoNvYouXi_Gold-digger_Message-Board/issues/12) | 创建于: 2025-06-20 | 负责人: 未分配
 
