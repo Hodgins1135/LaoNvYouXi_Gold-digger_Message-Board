@@ -3,12 +3,12 @@
 - 感谢 Steam用户 `sdcd890` 的留言板补档分享   [捞女游戏留言区补档](https://steamcommunity.com/app/3350200/discussions/0/598530063829308769/)
 
 <!-- ISSUE_LIST_START -->
-## 问题分类报告
+## 最新
 
 ### 标签导航
 - [反捞经验&知识](#反捞经验&知识) (5)
 - [情感互助&鼓励](#情感互助&鼓励) (2)
-- [捞女经历分享](#捞女经历分享) (3)
+- [捞女经历分享](#捞女经历分享) (4)
 
 ### <a id='反捞经验&知识'></a>反捞经验&知识 (5)
 
@@ -23,8 +23,9 @@
 - [人设借贷危机：当我用谎言「按揭」爱情时](https://github.com/Hodgins1135/LaoNvYouXi_Gold-digger_Message-Board/issues/9) | 创建于: 2025-06-20 | 负责人: 未分配
 - [祛魅之后：论一个成熟男人的自洽、粉色系与“四头”防沉迷系统](https://github.com/Hodgins1135/LaoNvYouXi_Gold-digger_Message-Board/issues/2) | 创建于: 2025-06-20 | 负责人: 未分配
 
-### <a id='捞女经历分享'></a>捞女经历分享 (3)
+### <a id='捞女经历分享'></a>捞女经历分享 (4)
 
+- [假面婚约：她在闺蜜群骂我下头时，正穿着我买的婚纱丈量深渊](https://github.com/Hodgins1135/LaoNvYouXi_Gold-digger_Message-Board/issues/11) | 创建于: 2025-06-20 | 负责人: 未分配
 - [鱼饵经济学：从“二百块游戏”到“几个W彩礼”的剥削公式](https://github.com/Hodgins1135/LaoNvYouXi_Gold-digger_Message-Board/issues/10) | 创建于: 2025-06-20 | 负责人: 未分配
 - [血饲吸血鬼：一个理想主义者用奖学金喂养捞女的破产启示录](https://github.com/Hodgins1135/LaoNvYouXi_Gold-digger_Message-Board/issues/8) | 创建于: 2025-06-20 | 负责人: 未分配
 - [机场民警揭穿“泰国女友”谎言，聋哑男子痛失四万积蓄](https://github.com/Hodgins1135/LaoNvYouXi_Gold-digger_Message-Board/issues/1) | 创建于: 2025-06-20 | 负责人: 未分配
