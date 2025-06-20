@@ -34,7 +34,7 @@ def main():
     sorted_labels = sorted(categorized_issues.keys())
     
     # 生成分类的 Markdown 内容
-    markdown_content = "## 问题分类报告\n\n"
+    markdown_content = "## 最新\n\n"
     
     # 标签导航索引
     markdown_content += "### 标签导航\n"
