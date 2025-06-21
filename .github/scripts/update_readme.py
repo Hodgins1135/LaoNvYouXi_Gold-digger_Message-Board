@@ -46,18 +46,19 @@ def main():
     
     # 按标签显示 issue
     for label in sorted_labels:
-        # 创建锚点
-        anchor = label.replace(" ", "-")
-        markdown_content += f"### <a id='{anchor}'></a>{label} ({len(categorized_issues[label])})\n\n"
+        if label != "无标签" :
+            # 创建锚点
+            anchor = label.replace(" ", "-")
+            markdown_content += f"### <a id='{anchor}'></a>{label} ({len(categorized_issues[label])})\n\n"
         
-        # 添加问题列表
-        for issue in categorized_issues[label]:
-            created_at = issue.created_at.strftime("%Y-%m-%d")
-            assignee = issue.assignee.login if issue.assignee else "未分配"
-            markdown_content += f"- [{issue.title}]({issue.html_url}) "
-            markdown_content += f"| 创建于: {created_at} | 负责人: {assignee}\n"
-        
-        markdown_content += "\n"
+            # 添加问题列表
+            for issue in categorized_issues[label]:
+                created_at = issue.created_at.strftime("%Y-%m-%d")
+                assignee = issue.assignee.login if issue.assignee else "未分配"
+                markdown_content += f"- [{issue.title}]({issue.html_url}) "
+                markdown_content += f"| 创建于: {created_at} | 负责人: {assignee}\n"
+            
+            markdown_content += "\n"
     
     # 读取当前 README
     with open("README.md", "r", encoding="utf-8") as file:
